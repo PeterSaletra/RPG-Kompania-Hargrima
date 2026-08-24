@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_Miejsca/Mapa Tilea.md",
-                "mode": "preview",
+                "file": "0_Drużyna/Historia Postaci.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mapa Tilea"
+              "title": "Historia Postaci"
             }
           }
         ],
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tu idziemy.md",
+                "file": "0_Drużyna/Historia Postaci.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -199,14 +199,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "434c159bae24e3be",
+  "active": "3148419decedf4a4",
   "lastOpenFiles": [
+    "0_Drużyna/Karta Postaci.md",
+    "2_Postacie/Untitled.md",
+    "Tu idziemy.md",
     "3_Miejsca/Mapa Tilea.md",
     "3_Miejsca/Mapa Księstwa Graniczne.md",
-    "Tu idziemy.md",
-    "2_Postacie/Untitled.md",
     "0_Drużyna/Historia Postaci.md",
-    "0_Drużyna/Karta Postaci.md",
     "New Text Document.txt",
     "10_DM",
     "3_Miejsca/Świat Warhammer.md",
