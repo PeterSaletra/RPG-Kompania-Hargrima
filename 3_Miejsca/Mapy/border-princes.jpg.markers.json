@@ -1,0 +1,76 @@
+{
+  "size": {
+    "w": 4500,
+    "h": 3500
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [],
+  "bases": [
+    "3_Miejsca/Mapy/border-princes.jpg"
+  ],
+  "overlays": [],
+  "activeBase": "3_Miejsca/Mapy/border-princes.jpg",
+  "measurement": {
+    "displayUnit": "km",
+    "scales": {},
+    "customUnitPxPerUnit": {},
+    "travelTimePresetIds": [],
+    "travelDaysEnabled": false
+  },
+  "pinSizeOverrides": {},
+  "grids": [],
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "secondScreen": {
+    "showGrids": true
+  },
+  "textLayers": [],
+  "deleted": [
+    {
+      "id": "undo_avz8g4",
+      "label": "Delete pin",
+      "createdAt": "2026-08-24T16:20:07.084Z",
+      "payload": {
+        "kind": "marker",
+        "marker": {
+          "type": "pin",
+          "id": "marker_xmhww4",
+          "x": 0.20118516710069442,
+          "y": 0.4588809494745164,
+          "layer": "default",
+          "link": "",
+          "iconKey": "pinRed",
+          "tooltip": ""
+        },
+        "index": 0
+      }
+    },
+    {
+      "id": "undo_02hc6o",
+      "label": "Delete pin",
+      "createdAt": "2026-08-24T16:20:04.588Z",
+      "payload": {
+        "kind": "marker",
+        "marker": {
+          "type": "pin",
+          "id": "marker_5awg3v",
+          "x": 0.28844446252893524,
+          "y": 0.41849997384207593,
+          "layer": "default",
+          "link": "",
+          "iconKey": "pinRed",
+          "tooltip": ""
+        },
+        "index": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "size": {
+    "w": 4800,
+    "h": 5400
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [],
+  "bases": [
+    "3_Miejsca/Mapy/tilea.webp"
+  ],
+  "overlays": [],
+  "activeBase": "3_Miejsca/Mapy/tilea.webp",
+  "measurement": {
+    "displayUnit": "km",
+    "scales": {},
+    "customUnitPxPerUnit": {},
+    "travelTimePresetIds": [],
+    "travelDaysEnabled": false
+  },
+  "pinSizeOverrides": {},
+  "grids": [],
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "secondScreen": {
+    "showGrids": true
+  },
+  "textLayers": [],
+  "deleted": [
+    {
+      "id": "undo_xej7on",
+      "label": "Delete pin",
+      "createdAt": "2026-08-24T19:02:39.447Z",
+      "payload": {
+        "kind": "marker",
+        "marker": {
+          "type": "pin",
+          "id": "marker_90bf2r",
+          "x": 0.6243055555555557,
+          "y": 0.22137345679012346,
+          "layer": "default",
+          "link": "Tu idziemy",
+          "iconKey": "pinRed",
+          "tooltip": ""
+        },
+        "index": 0
+      }
+    }
+  ]
+}
