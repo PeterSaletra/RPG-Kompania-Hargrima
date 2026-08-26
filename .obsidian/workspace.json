@@ -13,12 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "2_Postacie/Untitled siur.md",
+=======
+                "file": "0_Drużyna/Historia Postaci.md",
+>>>>>>> d00d7b8196697a7167abee3715ff263b7f551fff
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "Untitled siur"
+=======
+              "title": "Historia Postaci"
+>>>>>>> d00d7b8196697a7167abee3715ff263b7f551fff
             }
           }
         ],
@@ -160,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tu idziemy.md",
+                "file": "0_Drużyna/Historia Postaci.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -201,13 +209,20 @@
   },
   "active": "3148419decedf4a4",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "98_Źródła/Postać.pdf",
     "2_Postacie/Untitled siur.md",
     "3_Miejsca/Mapa Tilea.md",
     "3_Miejsca/Mapa Księstwa Graniczne.md",
     "Tu idziemy.md",
-    "0_Drużyna/Historia Postaci.md",
+=======
     "0_Drużyna/Karta Postaci.md",
+    "2_Postacie/Untitled.md",
+    "Tu idziemy.md",
+    "3_Miejsca/Mapa Tilea.md",
+    "3_Miejsca/Mapa Księstwa Graniczne.md",
+>>>>>>> d00d7b8196697a7167abee3715ff263b7f551fff
+    "0_Drużyna/Historia Postaci.md",
     "New Text Document.txt",
     "10_DM",
     "3_Miejsca/Świat Warhammer.md",
