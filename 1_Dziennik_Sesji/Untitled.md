@@ -1,4 +1,4 @@
-Mycy ma małego
+piotrek ma małego
 
 No i sie biliśmy z []
 
