@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_Miejsca/Mapa Tilea.md",
-                "mode": "preview",
+                "file": "2_Postacie/Untitled siur.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mapa Tilea"
+              "title": "Untitled siur"
             }
           }
         ],
@@ -47,7 +47,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Przeglądarka plików"
             }
           },
           {
@@ -188,30 +188,30 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:Otwórz okno szybkiego wyboru": false,
+      "graph:Otwórz podgląd grafu": false,
+      "canvas:Stwórz nową tablicę": false,
+      "daily-notes:Otwórz dzisiejszy dziennik": false,
+      "templates:Wstaw szablon": false,
+      "command-palette:Otwórz paletę poleceń": false,
+      "bases:Stwórz nową bazę danych": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "434c159bae24e3be",
+  "active": "3148419decedf4a4",
   "lastOpenFiles": [
+    "98_Źródła/Postać.pdf",
+    "2_Postacie/Untitled siur.md",
     "3_Miejsca/Mapa Tilea.md",
     "3_Miejsca/Mapa Księstwa Graniczne.md",
     "Tu idziemy.md",
-    "2_Postacie/Untitled.md",
     "0_Drużyna/Historia Postaci.md",
     "0_Drużyna/Karta Postaci.md",
     "New Text Document.txt",
     "10_DM",
     "3_Miejsca/Świat Warhammer.md",
     "98_Źródła",
-    "98_Źródła/Postać.pdf",
     "3_Miejsca/Mapy/border-princes.jpg.markers.json",
     "3_Miejsca/Mapy/tilea.webp.markers.json",
     "3_Miejsca/Mapy/tilea.webp",
