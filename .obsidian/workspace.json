@@ -13,13 +13,12 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "0_Drużyna/Karta Postaci.md",
-                "bFile": "0_Drużyna/Karta Postaci.md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "aFile": "99_Templatki/Postać.md",
+                "bFile": "99_Templatki/Postać.md",
+                "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: Karta Postaci  (Index)"
+              "title": "Diff: Postać  (Working Tree)"
             }
           }
         ],
@@ -219,9 +218,9 @@
   },
   "active": "3148419decedf4a4",
   "lastOpenFiles": [
+    "99_Templatki/Postać.md",
     "conflict-files-obsidian-git.md",
     "0_Drużyna/Historia Postaci.md",
-    "99_Templatki/Postać.md",
     "2_Postacie/Untitled siur.md",
     "1_Dziennik_Sesji/Untitled.md",
     "98_Źródła/Postać.pdf",
