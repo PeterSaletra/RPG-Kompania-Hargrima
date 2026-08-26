@@ -1,5 +1,7 @@
 [
   "templater-obsidian",
   "zoom-map",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-5e-statblocks",
+  "obsidian-meta-bind-plugin"
 ]
