@@ -1,4 +1,4 @@
-No byliśmy tu chujsiur 
+Mycy ma małego
 
 No i sie biliśmy z []
 

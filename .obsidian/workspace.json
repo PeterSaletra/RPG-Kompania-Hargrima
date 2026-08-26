@@ -11,14 +11,14 @@
             "id": "3148419decedf4a4",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "99_Templatki/Postać.md",
-                "bFile": "99_Templatki/Postać.md",
-                "aRef": ""
+                "file": "1_Dziennik_Sesji/Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Postać  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
