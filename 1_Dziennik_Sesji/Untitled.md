@@ -1,3 +1,5 @@
-No byliśmy tu 
+No byliśmy tu chujsiur 
 
 No i sie biliśmy z []
+
+
